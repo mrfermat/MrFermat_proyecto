@@ -1,0 +1,250 @@
+body {
+    font-family: "Roboto Slab", sans-serif;
+	margin: 0;
+	padding: 0;
+    background-color: black;
+}
+
+
+
+/* FUENTES IMPORTADAS DESDE GOOGLEFONT */
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
+
+
+/* Helper Classes
+--------------------------------------------- */
+
+.clearfix {
+	display: block;
+	clear: both;
+}
+
+
+/* Typography
+--------------------------------------------- */
+
+body {
+    font-family: "Roboto Slab", sans-serif;
+	font-size:18px;
+	line-height: 32px;
+	color: red;
+	word-wrap:break-word !important;
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: "Roboto Slab", sans-serif;
+    color: red;
+	margin: 0 0 24px;
+	margin: 0 0 2.4rem;
+	padding: 0;
+}
+
+
+/* Links
+--------------------------------------------- */
+
+a {
+    font-family: "Roboto Slab", sans-serif;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+    font-family: "Roboto Slab", sans-serif;
+	text-decoration: underline; 
+	color:white;
+}
+
+
+
+/* Headings
+--------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #333;
+	font-family: "Roboto Slab", sans-serif;
+	font-weight: 700;
+	line-height: 1.2;
+	margin: 0 0 16px;
+}
+
+h1 {
+    font-family: "Roboto Slab", sans-serif;
+	font-size: 40px;
+}
+
+h2 {
+    color: red;
+    font-family: "Roboto Slab", sans-serif;
+	font-size: 45px;
+}
+
+h3 {
+    font-family: "Roboto Slab", sans-serif;
+	font-size: 24px;
+}
+
+h4 {
+    font-family: "Roboto Slab", sans-serif;
+	font-size: 20px;
+}
+
+h5 {
+    font-family: "Roboto Slab", sans-serif;
+	font-size: 18px;
+}
+
+h6 {
+    font-family: "Roboto Slab", sans-serif;
+	font-size: 16px;
+}
+
+
+
+/* CABECERA */
+
+#contenedor{
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+
+
+/* CABECERA TITULO */
+
+header {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	width: 94%;
+	padding: 3%;
+	background-color: blue;
+}
+
+header #title {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	font-size: 50px;
+	color: #fff;
+}
+
+
+
+/* NAVEGACION */
+
+nav {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	width: 97%;
+	background-color:blue;
+	padding: 0 1.5% 0 1.5%;
+}
+
+nav ul li {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	display: inline-block;
+	padding: 15px 1.5% 15px 1.5% ;
+}
+
+nav ul li a {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 1.2em;
+}
+
+nav ul li a:hover {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+/* CONTENIDO */
+
+#contenido {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	float: left;
+	padding: 3%;
+	width: 64%;
+}
+
+
+/* LATERAL DERECHO */
+
+aside {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	float: right;
+	padding: 3%;
+	width: 24%;
+	background-color:antiquewhite;
+}
+
+
+
+
+
+/* PIE DE PAGINA */
+
+footer{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+	width: 94%;
+	padding: 3%;
+	background-color:blue;
+	border-top: 5px solid;
+    border-color: black;
+	color: #fff;
+	text-align: center;
+}
+
+
+
+/* Media Queries
+--------------------------------------------- */
+
+@media all and (max-width : 768px) {
+
+	header {
+		text-align: center;
+	}
+
+	nav {
+		text-align: center;
+	}
+
+	#content {
+		width: 94%;
+		padding: 3%;	
+	}
+
+	#sidebar {
+		width: 94%;
+		padding: 3%;
+		border-top: 3px solid #E64A19;
+	}
+
+}
+
+@media all and (max-width : 330px) {
+
+	nav ul li {
+		display:block;
+		width: 94%;
+	}
+
+}
