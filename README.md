@@ -43,6 +43,14 @@ Y de listas no ordenadas:
 * Faker
 * Niels
 
+También es posible crear listar anidadas:
+
+1. Tristana
+    * ADC
+    * Poco rango incial
+2. Ashe
+    1. ADC
+    2. Poco rango incial
 
 
 
