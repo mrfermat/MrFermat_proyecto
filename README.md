@@ -72,6 +72,15 @@ Se pueden poner citas:
 
 > En un lugar de La Mancha, de cuyo nombre no quiero acordarme...
 
+---
+
+Markdown te permite crear listas de chequeo:
+
+- [ ] Patatas.
+- [X] Limones. 
+- [ ] Melones.
+
+
 
 
 
