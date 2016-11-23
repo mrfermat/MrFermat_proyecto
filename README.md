@@ -29,6 +29,8 @@ En Markdown puedes poner código de cualquier lenguaje:
 </html>
 ```
 
+Además puedes poner código en una misma línea: `git commin -m "corregio fallo" .
+
 
 
 
