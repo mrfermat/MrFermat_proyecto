@@ -12,6 +12,11 @@ Texto normal.
 
 **Texto en negrita y _cursiva_**
 
+En Markdown puedes poner código de cualquier lenguaje:
+
+```HTML
+
+
 
 
 
