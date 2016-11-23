@@ -59,6 +59,10 @@ En Markdown también se pueden poner imágenes:
 
 ![Imangén de Tristana](http://lolwp.com/wp-content/uploads/2012/02/Tristana-Classic.jpg 'Tristana')
 
+En Markdown te permite crar tablas:
+
+
+
 
 
 
