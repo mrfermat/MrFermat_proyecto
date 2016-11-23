@@ -10,7 +10,7 @@ Texto normal.
 
 *Texto en cursiva*
 
-**Texto en *negrita y cursiva***
+**Texto en negrita y _cursiva_**
 
 
 
