@@ -57,7 +57,7 @@ Markdown te permite poner [enlaces a una página web](https://github.com/milq/lm
 
 En Markdown también se pueden poner imágenes:
 
-![Imangén de Tristana](http://lolwp.com/wp-content/uploads/tristana2.jpg)
+![Imangén de Tristana](http://lolwp.com/wp-content/uploads/2012/02/Tristana-Classic.jpg 'Tristana')
 
 
 
