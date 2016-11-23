@@ -15,6 +15,19 @@ Texto normal.
 En Markdown puedes poner código de cualquier lenguaje:
 
 ```HTML
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>XHTML 5.1 blank page</title>
+  </head>
+
+  <body>
+    <h1>Blank page</h1>
+    <p>Text here.</p>
+  </body>
+</html>
+```
 
 
 
