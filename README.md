@@ -53,7 +53,7 @@ También es posible crear listar anidadas:
     1. ADC
     2. Poco rango incial
 
-Markdown te permite poner [enlaces a una página web](https://github.com/milq/lmsgi), incluso sólo poniendo la URL;
+Markdown te permite poner [enlaces a una página web](https://github.com/milq/lmsgi), incluso sólo poniendo la URL; https://google.com
 
 
 
