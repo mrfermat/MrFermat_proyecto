@@ -55,6 +55,10 @@ También es posible crear listar anidadas:
 
 Markdown te permite poner [enlaces a una página web](https://github.com/milq/lmsgi), incluso sólo poniendo la URL; https://google.com
 
+En Markdown también se pueden poner imágenes:
+
+![Imangén de Tristana](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjF0IXR4b7QAhVIKMAKHY-ND2kQjRwIBw&url=http%3A%2F%2Fleagueoflegends.wikia.com%2Fwiki%2FTristana%2FBackground&bvm=bv.139782543,d.ZGg&psig=AFQjCNH1ySeD74O8aCQwZs55bGWs5ylSmg&ust=1479986531519325)
+
 
 
 
