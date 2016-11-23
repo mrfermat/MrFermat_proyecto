@@ -31,6 +31,19 @@ En Markdown puedes poner código de cualquier lenguaje:
 
 Además puedes poner código en una misma línea: `git commin -m "corregio fallo"`.
 
+Markdown dispone de lista ordenadas:
+
+1. Tristana
+2. Ashe
+3. Shivir
+
+Y de listas no ordenadas:
+
+* xPeke 
+* Faker
+* Niels
+
+
 
 
 
