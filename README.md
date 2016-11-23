@@ -66,6 +66,11 @@ En Markdown te permite crar tablas:
 | Tristana  | ADC      | Rango Largo |
 | Annie     | Mid      | Stunt       |
 
+También te permite <i> usar <b>codigo</b> HTML</i>.
+
+Se pueden poner citas:
+
+> En un lugar de La Mancha, de cuyo nombre no quiero acordarme...
 
 
 
